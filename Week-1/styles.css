@@ -74,3 +74,7 @@ headercontent {
     bottom: 0;
     left: 0;
 }
+tablecontent {
+    border: 1px solid;
+    color: #000;
+}
