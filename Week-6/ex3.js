@@ -17,5 +17,3 @@ function sortArray012(arr){
     return final_array
 
 }
-
-console.log('Sortted array of [0, 2, 1, 2, 0] is ' + sortArray012([0, 2, 1, 2, 0,0, 2, 1, 2, 0,0, 2, 1, 2, 0,0, 2, 1, 2, 0,0, 2, 1, 2, 0,0, 2, 1, 2, 0,0, 2, 1, 2, 0]))

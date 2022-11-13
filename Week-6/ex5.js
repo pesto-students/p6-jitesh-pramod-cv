@@ -16,9 +16,3 @@ function pairDifference(arr, num){
     }
     return 0
 }
-
-console.log(pairDifference([5, 10, 3, 2, 50, 80], 78))
-console.log(pairDifference([5, 10, 3, 2, 50, 80], 77))
-console.log(pairDifference([5, 10, 3, 2, 50, 80], 77))
-console.log(pairDifference([-10,20], 20))
-console.log(pairDifference([-10,20], 30))
